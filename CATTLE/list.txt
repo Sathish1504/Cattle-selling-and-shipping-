@@ -1,0 +1,19 @@
+
+Breed	Image	Subspecies	Country/region of origin	Meat	Dairy	Draught	Other
+Aberdeen Angus		Taurus	Scotland	Meat	Dairy	—	—
+Abergele		—	Ethiopia	Meat	Dairy	Draught	—
+Abigar		Taurus	Ethiopia	—	Dairy	—	—
+Abondance		Taurus	France	Meat	Dairy	—	—
+Abyssinian Shorthorned Zebu		Indicus	Ethiopia	—	—	Draught	—
+Aceh	—	—	Indonesia	Meat	—	—	—
+Achham		Indicus	Nepal	—	Dairy	—	—
+Adamawa		Taurus	Nigeria	Meat	Dairy	Draught	—
+Adaptaur		Taurus/Indicus hybrid	Australia	Meat	—	—	—
+Afar		—	Ethiopia	Meat	Dairy	—	—
+Africangus		Taurus/Indicus hybrid	South Africa	Meat	—	—	—
+Afrikaner		Indicus	South Africa	Meat	—	—	—
+Agerolese		Taurus	Italy	—	Dairy	—	—
+Alambadi		Indicus	India	—	—	—	—
+Alatau		Taurus	Kazakhstan	Meat	Dairy	—	—
+Albanian		Taurus	Albania	—	Dairy	Draught	—
+Albera	Albera cattle grazing	Taurus	Spain, France	Meat	—	—	Semi-feral
